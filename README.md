@@ -131,3 +131,134 @@ Un computador cuántico se puede entender como un **modelo de capas**:
 - 📈 **Evolución y escalabilidad:** El gran reto está en manejar la **decoherencia** y la **corrección de errores** para aumentar el número de cúbits utilizables.
 
 <img width="1200" height="763" alt="Image" src="https://github.com/user-attachments/assets/6a2897c2-3a6f-411d-a2c6-a2103c602c77" />
+
+-----
+
+### 📜 Historia, ventajas y desventajas
+
+| ✅ Ventajas | ⚠️ Desventajas |
+|------------|----------------|
+| Resolución de problemas exponencialmente más rápida en criptografía y optimización | Estados frágiles: decoherencia y ruido |
+| Criptografía cuántica segura 🔐 | Altos costos y complejidad técnica |
+| Simulación de moléculas y materiales | Necesidad de enfriamiento extremo |
+| Impulso en IA y machine learning 🤖 | Escalabilidad limitada de cúbits |
+
+### 🔑 Principios y conceptos clave
+
+- **Superposición** 🌀: un cúbit puede representar 0 y 1 a la vez.  
+- **Entrelazamiento** 🔗: los cúbits comparten estados aunque estén separados.  
+- **Interferencia** ✨: usada para amplificar soluciones correctas.  
+
+---
+
+## 2- 🧠🤖 Computación Neuromórfica
+
+### 🧩 ¿Qué es?
+
+Imita el **funcionamiento del cerebro humano** con neuronas artificiales que procesan información de forma distribuida, eficiente y adaptable.  
+
+### 🏗️ Arquitectura y funcionamiento
+
+| 🧱 Elemento | 📌 Descripción |
+|-------------|----------------|
+| Neuronas artificiales (SNNs) | Procesan picos eléctricos en lugar de valores continuos |
+| Sinapsis (memristores) | Ajustan conexiones dinámicamente |
+| Procesamiento event-driven ⚡ | Solo se activa con estímulos → ahorro energético |
+
+### ⚖️ Ventajas y desventajas
+
+| ✅ Ventajas | ⚠️ Desventajas |
+|------------|----------------|
+| Consumo hasta 1000x menor 🔋 | Falta de estándares universales |
+| Adaptación en tiempo real (ideal IA en edge) 🤖 | Ecosistema de software en desarrollo |
+| Privacidad mejorada (procesamiento local) 🔒 | Programación compleja |
+| Uso eficiente en IoT | Escalabilidad aún limitada |
+
+### 🖥️ Hardware utilizado
+
+- **Intel Loihi** 🖤  
+- **IBM TrueNorth** 🧩  
+- **BrainChip Akida** 🔋  
+- **SpiNNaker (UK)** 🧠  
+
+### 🌐 Tipos
+
+1. Simulación por software  
+2. Hardware neuromórfico dedicado  
+3. Modelos híbridos  
+4. Neuromorphic-Quantum 🚀  
+
+---
+
+## 3- 🧬💻 Ordenadores Biológicos
+
+### 🧬 ¿Qué son?
+
+Usan **moléculas biológicas** (ADN, proteínas o células) como elementos de cálculo.  
+
+### 🏗️ Arquitectura y tipos
+
+| 🔖 Tipo | 📌 Descripción |
+|---------|----------------|
+| Computación con ADN 🧬 | Usa reacciones químicas para resolver problemas |
+| Computación proteica | Interacciones moleculares como lógica |
+| Computación celular 🧫 | Células vivas programadas para cálculos |
+
+### 📜 Hitos
+
+- **1994**: Leonard Adleman → 1ª demostración con ADN.  
+- Década de 2000 → biología sintética avanza.  
+- Actualidad → aplicaciones en **medicina personalizada** y diagnósticos inteligentes.  
+
+---
+
+## 4- 🖥️⚡ Computación Heterogénea
+
+### 🖥️ ¿Qué es?
+
+Uso conjunto de **CPU, GPU, FPGA y ASICs** para maximizar rendimiento y eficiencia.  
+
+### 📜 Historia
+
+- **2000s**: auge de GPUs para cálculos científicos.  
+- Hoy: se usa en **IA, supercomputación y móviles**.  
+
+### ⚖️ Ventajas y desventajas
+
+| ✅ Ventajas | ⚠️ Desventajas |
+|------------|----------------|
+| Gran rendimiento en IA y Big Data 📊 | Programación compleja |
+| Eficiencia energética 💡 | Fragmentación de software |
+| Flexibilidad en cargas de trabajo | Costo de integración alto |
+
+---
+
+## 5- 🌐📡 Computación de Borde
+
+### 🌍 ¿Qué es?
+
+Procesamiento de datos **cerca de donde se generan** (sensores, IoT) → menor latencia y dependencia de la nube.  
+
+### 📜 Historia
+
+- Surge con el **IoT**.  
+- Crece con el despliegue de **5G y dispositivos inteligentes**.  
+
+### ⚖️ Ventajas y desventajas
+
+| ✅ Ventajas | ⚠️ Desventajas |
+|------------|----------------|
+| Baja latencia ⚡ | Menor capacidad que la nube |
+| Ahorro de ancho de banda 📶 | Requiere infraestructura distribuida |
+| Privacidad local 🔒 | Escalabilidad difícil |
+| Ideal para IA en tiempo real 🤖 | Costo de mantenimiento |
+
+---
+
+## 📚 Referencias
+
+- Quantum Computing: [Quantum Zeitgeist](https://quantumzeitgeist.com/quantum-computing-and-neuromorphic-computing-comparing-future-technologies/?utm_source=chatgpt.com), [Arxiv](https://arxiv.org/abs/2010.15559?utm_source=chatgpt.com), [Wikipedia](https://en.wikipedia.org/wiki/Quantum_computing?utm_source=chatgpt.com)  
+- Neuromorphic: [BuiltIn](https://builtin.com/artificial-intelligence/neuromorphic-computing?utm_source=chatgpt.com), [Elprocus](https://www.elprocus.com/neuromorphic-computing/?utm_source=chatgpt.com), [Tom’s Guide](https://www.tomsguide.com/computing/were-building-chips-that-think-like-the-brain-i-got-a-front-row-seat-to-see-how-neuromorphic-computing-will-transform-your-next-smart-device?utm_source=chatgpt.com)  
+- Biological Computing: [Wikipedia](https://en.wikipedia.org/wiki/Biological_computing?utm_source=chatgpt.com)  
+- Heterogeneous: [Supermicro](https://www.supermicro.com/en/glossary/heterogeneous-computing?utm_source=chatgpt.com), [ACM](https://cacm.acm.org/practice/heterogeneous-computing/?utm_source=chatgpt.com), [Intel](https://www.intel.com/content/www/us/en/docs/sycl/introduction/latest/01-homogeneous-vs-heterogeneous.html?utm_source=chatgpt.com)  
+- Edge Computing: [Wikipedia](https://en.wikipedia.org/wiki/Edge_computing?utm_source=chatgpt.com)  
