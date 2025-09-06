@@ -128,4 +128,6 @@ Un computador cuántico se puede entender como un **modelo de capas**:
 
 - 🌡️ **Entorno de operación:** Los cúbits requieren temperaturas **ultrabajas** para preservar la coherencia.  
 - 💻 **Software cuántico:** Define algoritmos, circuitos lógicos y bibliotecas de desarrollo.  
-- 📈 **Evolución y escalabilidad:** El gran reto está en manejar la **decoherencia** y la **corrección de errores** para aumentar el número de cúbits utilizables. 
+- 📈 **Evolución y escalabilidad:** El gran reto está en manejar la **decoherencia** y la **corrección de errores** para aumentar el número de cúbits utilizables.
+
+<img width="1200" height="763" alt="Image" src="https://github.com/user-attachments/assets/6a2897c2-3a6f-411d-a2c6-a2103c602c77" />
