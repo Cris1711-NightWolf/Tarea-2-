@@ -85,3 +85,51 @@ En resumen: la computación cuántica no reemplaza a la clásica, sino que la co
 * Es como afinar una radio para escuchar solo la estación clara y silenciar el ruido.
 
 👉 En conjunto, estos principios hacen que los computadores cuánticos puedan realizar cálculos masivos en paralelo y resolver problemas que serían imposibles para las computadoras tradicionales.
+
+-----
+
+# ⚛️ Arquitectura de un Computador Cuántico  
+
+La **arquitectura de la computación cuántica** es el diseño estructural y operativo de los sistemas cuánticos, basados en principios de la **mecánica cuántica** para realizar cálculos complejos mediante **cúbits, puertas cuánticas** y **mecanismos de corrección de errores**.  
+
+Esta arquitectura se organiza en **capas** que integran hardware especializado y software cuántico para hacer posible la computación cuántica.
+
+---
+
+## 🧩 Componentes Clave de la Arquitectura  
+
+| 🔹 Componente | 📖 Descripción |
+|--------------|----------------|
+| **Cúbits** 🌀 | Unidad básica de información cuántica. Pueden estar en **superposición** (0, 1 o ambos a la vez) y **entrelazarse** con otros cúbits. |
+| **Puertas Cuánticas** 🔑 | Operaciones que modifican el estado de los cúbits, equivalentes a las puertas lógicas clásicas. |
+| **Corrección de Errores** 🛡️ | Mecanismos que protegen la información frente a la **decoherencia cuántica** (ejemplo: códigos de superficie). |
+
+---
+
+## 🏗️ Estructura en Capas  
+
+Un computador cuántico se puede entender como un **modelo de capas**:
+
+┌───────────────────────────────┐
+│ Procesador de Control y Host 🖥️ │
+│ (algoritmos y software) │
+├───────────────────────────────┤
+│ Plano de Control y Medida 🎛️ │
+│ (microondas, láseres, lecturas) │
+├───────────────────────────────┤
+│ Plano de Datos Cuánticos ⚛️ │
+│ (cúbits y hardware físico) │
+└───────────────────────────────┘
+
+### 📌 Descripción de cada capa:  
+- **Plano de datos cuánticos:** Contiene los cúbits físicos y los sistemas que mantienen su estado cuántico.  
+- **Plano de control y medida:** Manipula cúbits mediante señales (microondas, láseres) y mide su estado.  
+- **Procesador de control y host:** Ejecuta el algoritmo cuántico y conecta con software clásico.  
+
+---
+
+## ⚙️ Consideraciones Adicionales  
+
+- 🌡️ **Entorno de operación:** Los cúbits requieren temperaturas **ultrabajas** para preservar la coherencia.  
+- 💻 **Software cuántico:** Define algoritmos, circuitos lógicos y bibliotecas de desarrollo.  
+- 📈 **Evolución y escalabilidad:** El gran reto está en manejar la **decoherencia** y la **corrección de errores** para aumentar el número de cúbits utilizables. 
