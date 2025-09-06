@@ -110,16 +110,12 @@ Esta arquitectura se organiza en **capas** que integran hardware especializado y
 
 Un computador cuántico se puede entender como un **modelo de capas**:
 
-┌───────────────────────────────┐
 │ Procesador de Control y Host 🖥️ │
 │ (algoritmos y software) │
-├───────────────────────────────┤
 │ Plano de Control y Medida 🎛️ │
 │ (microondas, láseres, lecturas) │
-├───────────────────────────────┤
 │ Plano de Datos Cuánticos ⚛️ │
 │ (cúbits y hardware físico) │
-└───────────────────────────────┘
 
 ### 📌 Descripción de cada capa:  
 - **Plano de datos cuánticos:** Contiene los cúbits físicos y los sistemas que mantienen su estado cuántico.  
